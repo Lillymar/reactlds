@@ -72,10 +72,38 @@ e.currentTarget.blur();
     <Descriptions weather = {weather} />
          </div>
           )
-        };
+        }
+<footer>
+
+This project was coded by{" "}
+<a
+  href="https://www.linkedin.com/in/lillymardiazsein/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Lilly
+</a>{" "}
+and is{" "}
+<a
+  href="https://github.com/Lillymar/reactlds"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  open-sourced on GitHub
+</a>{" "}
+and{" "}
+<a
+  href="https://jocular-cajeta-b67765.netlify.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  hosted on Netlify
+</a>
+</footer>
+
    </div>  
  </div>
-  );
+  ); 
 }
 
 export default App;

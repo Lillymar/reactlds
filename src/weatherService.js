@@ -36,4 +36,6 @@ const getFormattedWeatherData = async (city, units ='metric') => {
     };
 };
 
+
+
 export {getFormattedWeatherData};

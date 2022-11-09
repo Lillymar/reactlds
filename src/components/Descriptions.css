@@ -29,6 +29,10 @@ margin-bottom: 12px;
     text-transform: capitalize;
 }
 
+footer{
+    text-align: center;
+}
+
 @media screen and (max-width: 1024px) {
 .section__descriptions{
     grid-template-columns: 1fr 1fr;
